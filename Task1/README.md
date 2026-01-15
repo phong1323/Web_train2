@@ -1,6 +1,6 @@
 # Task 1
 
-Text: - Dev 1 trang web có chức năng cơ bản là đăng ký, đăng nhập, hiển thị thông tin tài khoản (tên, giới tính, email, địa chỉ, sdt), search người dùng
+- Dev 1 trang web có chức năng cơ bản là đăng ký, đăng nhập, hiển thị thông tin tài khoản (tên, giới tính, email, địa chỉ, sdt), search người dùng
 - Phần client thì không cần quá đẹp
 - Phần server thì chọn ngôn ngữ PHP và database MySQL
 
